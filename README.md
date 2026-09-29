@@ -82,7 +82,7 @@ If you find a working bypass, please do one of:
 
 1. open an issue in this repo with the model + version + minimum reproducible payload
 2. report it to the model vendor's red-team channel (Anthropic, OpenAI, Google, etc.)
-3. share on the Discord below
+3. share findings on your own channels
 
 Don't publish raw exploit chains without giving the vendor a chance to patch first
 (standard 90-day disclosure window is a useful default).
