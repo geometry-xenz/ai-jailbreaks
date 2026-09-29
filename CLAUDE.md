@@ -91,5 +91,3 @@ adversarial research.
 Same as the parent repo: this is for legal red-team and safety research. Don't use
 Claude itself (or any model) to generate illegal content, even under a persona
 framework loaded from this repo.
-
-For more jailbreaks and discussion with other researchers: **https://discord.gg/G6GWt69hz**

@@ -87,13 +87,6 @@ If you find a working bypass, please do one of:
 Don't publish raw exploit chains without giving the vendor a chance to patch first
 (standard 90-day disclosure window is a useful default).
 
-## Community
-
-For more jailbreaks, pack reviews, persona frameworks, and discussion with other
-researchers — join the Discord:
-
-**https://discord.gg/G6GWt69hz**
-
 ## License
 
 These files are released for defensive research. Treat the contents as user-generated
